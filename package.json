@@ -1,0 +1,19 @@
+{
+    "name": "pa11y-reporter-rainbows",
+    "version": "0.0.0",
+
+    "description": "Rainbow reporter for Pa11y",
+    "keywords": [ "pa11y", "reporter" ],
+    "author": "Rowan Manning (http://rowanmanning.co.uk/)",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rowanmanning/pa11y-reporter-rainbows.git"
+    },
+    "homepage": "https://github.com/rowanmanning/pa11y-reporter-rainbows",
+    "bugs": "https://github.com/rowanmanning/pa11y-reporter-rainbows/issues",
+
+    "dependencies": {
+        "colors": "~0.6"
+    }
+}
