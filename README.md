@@ -6,6 +6,10 @@ This is a simple reporter for [pa11y][pa11y]. It's main purpose is to demonstrat
 
 **Current Version:** *1.0.0*
 
+```sh
+$ npm install -g pa11y-reporter-rainbows
+```
+
 
 Usage
 -----
