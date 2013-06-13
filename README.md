@@ -4,7 +4,7 @@ pa11y-reporter-rainbows
 
 This is a simple reporter for [pa11y][pa11y]. It's main purpose is to demonstrate how to build a custom reporter.
 
-**Current Version:** *0.0.0*
+**Current Version:** *1.0.0*
 
 
 Usage

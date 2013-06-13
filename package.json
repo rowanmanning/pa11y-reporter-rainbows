@@ -1,6 +1,6 @@
 {
     "name": "pa11y-reporter-rainbows",
-    "version": "0.0.0",
+    "version": "1.0.0",
 
     "description": "Rainbow reporter for Pa11y",
     "keywords": [ "pa11y", "reporter" ],
