@@ -16,6 +16,8 @@ Install [pa11y][pa11y] and this module. You can now run pa11y with the reporter 
 $ pa11y -r rainbows rowanmanning.com
 ```
 
+![Example pa11y rainbow report](https://raw.github.com/rowanmanning/pa11y-reporter-rainbows/img/pa11y-reporter-rainbows-usage.png)
+
 
 License
 -------
