@@ -1,6 +1,10 @@
 
 # History
 
+## 2.0.2 (2015-06-08)
+
+  * Licensing fixes
+
 ## 2.0.1 (2015-06-08)
 
   * Documentation fixes
