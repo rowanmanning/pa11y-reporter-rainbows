@@ -55,13 +55,13 @@ Copyright &copy; 2015, Rowan Manning
 [npm]: https://www.npmjs.com/
 [pa11y]: https://github.com/nature/pa11y
 
-[info-dependencies]: https://gemnasium.com/nature/pa11y-reporter-rainbows
+[info-dependencies]: https://gemnasium.com/rowanmanning/pa11y-reporter-rainbows
 [info-license]: LICENSE
 [info-node]: package.json
 [info-npm]: https://www.npmjs.com/package/pa11y-reporter-rainbows
-[info-build]: https://travis-ci.org/nature/pa11y-reporter-rainbows
-[shield-dependencies]: https://img.shields.io/gemnasium/nature/pa11y-reporter-rainbows.svg
+[info-build]: https://travis-ci.org/rowanmanning/pa11y-reporter-rainbows
+[shield-dependencies]: https://img.shields.io/gemnasium/rowanmanning/pa11y-reporter-rainbows.svg
 [shield-license]: https://img.shields.io/badge/license-GPLv3-blue.svg
 [shield-node]: https://img.shields.io/node/v/pa11y-reporter-rainbows.svg?label=node.js%20support
 [shield-npm]: https://img.shields.io/npm/v/pa11y-reporter-rainbows.svg
-[shield-build]: https://img.shields.io/travis/nature/pa11y-reporter-rainbows/master.svg
+[shield-build]: https://img.shields.io/travis/rowanmanning/pa11y-reporter-rainbows/master.svg
