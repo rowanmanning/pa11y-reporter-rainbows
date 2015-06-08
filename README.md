@@ -2,7 +2,7 @@
 pa11y-reporter-rainbows
 =======================
 
-This is a simple reporter for [pa11y][pa11y]. It's main purpose is to demonstrate how to build a custom reporter.
+This is a simple reporter for [pa11y][pa11y] 2.0. It's main purpose is to demonstrate how to build a custom reporter.
 
 **Current Version:** *1.0.0*
 

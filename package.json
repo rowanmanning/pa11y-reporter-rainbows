@@ -2,7 +2,7 @@
     "name": "pa11y-reporter-rainbows",
     "version": "1.0.0",
 
-    "description": "Rainbow reporter for Pa11y",
+    "description": "A pa11y 2.0 reporter with rainbows",
     "keywords": [ "pa11y", "reporter" ],
     "author": "Rowan Manning (http://rowanmanning.co.uk/)",
 
@@ -12,8 +12,21 @@
     },
     "homepage": "https://github.com/rowanmanning/pa11y-reporter-rainbows",
     "bugs": "https://github.com/rowanmanning/pa11y-reporter-rainbows/issues",
+    "license": "mit",
 
+    "engines": {
+        "node": ">=0.10"
+    },
     "dependencies": {
-        "colors": "~0.6"
+        "chalk": "~1.0"
+    },
+    "devDependencies": {
+        "jscs": "~1.13",
+        "jshint": "~2.7"
+    },
+
+    "main": "./reporter.js",
+    "scripts": {
+        "test": "make ci"
     }
 }
