@@ -1,34 +1,67 @@
 
-pa11y-reporter-rainbows
+pa11y rainbows reporter
 =======================
 
-This is a simple reporter for [pa11y][pa11y] 2.0. It's main purpose is to demonstrate how to build a custom reporter.
+A reporter for [pa11y][pa11y] 2.0 which outputs rainbows and unicorns.
 
-**Current Version:** *1.0.0*
+[![NPM version][shield-npm]][info-npm]
+[![Node.js version support][shield-node]][info-node]
+[![Build status][shield-build]][info-build]
+[![Dependencies][shield-dependencies]][info-dependencies]
+[![GPLv3 licensed][shield-license]][info-license]
 
 ```sh
-$ npm install -g pa11y-reporter-rainbows
+pa11y --reporter rainbows nature.com
 ```
 
 
 Usage
 -----
 
-Install [pa11y][pa11y] and this module. You can now run pa11y with the reporter `rainbows`:
+Install pa11y and pa11y-reporter-rainbows with [npm][npm]:
 
-```sh
-$ pa11y -r rainbows rowanmanning.com
+```
+npm install -g pa11y
+npm install -g pa11y-reporter-rainbows
 ```
 
-![Example pa11y rainbow report](https://raw.github.com/rowanmanning/pa11y-reporter-rainbows/img/pa11y-reporter-rainbows-usage.png)
+Use the reporter with the `--reporter` flag:
+
+```sh
+pa11y --reporter rainbows nature.com
+```
+
+
+Contributing
+------------
+
+To contribute to pa11y-reporter-rainbows, clone this repo locally and commit your code on a separate branch.
+
+Please check that everything works by running the following before opening a pull-request:
+
+```sh
+make ci
+```
 
 
 License
 -------
 
-pa11y-reporter-rainbows is licensed under the [MIT][mit] license.
+pa11y-reporter-rainbows is licensed under the [MIT][info-license] license.  
+Copyright &copy; 2015, Rowan Manning
 
 
 
+[npm]: https://www.npmjs.com/
 [pa11y]: https://github.com/nature/pa11y
-[mit]: http://opensource.org/licenses/mit-license.php
+
+[info-dependencies]: https://gemnasium.com/nature/pa11y-reporter-rainbows
+[info-license]: LICENSE
+[info-node]: package.json
+[info-npm]: https://www.npmjs.com/package/pa11y-reporter-rainbows
+[info-build]: https://travis-ci.org/nature/pa11y-reporter-rainbows
+[shield-dependencies]: https://img.shields.io/gemnasium/nature/pa11y-reporter-rainbows.svg
+[shield-license]: https://img.shields.io/badge/license-GPLv3-blue.svg
+[shield-node]: https://img.shields.io/node/v/pa11y-reporter-rainbows.svg?label=node.js%20support
+[shield-npm]: https://img.shields.io/npm/v/pa11y-reporter-rainbows.svg
+[shield-build]: https://img.shields.io/travis/nature/pa11y-reporter-rainbows/master.svg
