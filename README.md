@@ -8,7 +8,7 @@ A reporter for [pa11y][pa11y] 2.0 which outputs rainbows and unicorns.
 [![Node.js version support][shield-node]][info-node]
 [![Build status][shield-build]][info-build]
 [![Dependencies][shield-dependencies]][info-dependencies]
-[![GPLv3 licensed][shield-license]][info-license]
+[![MIT licensed][shield-license]][info-license]
 
 ```sh
 pa11y --reporter rainbows nature.com
@@ -61,7 +61,7 @@ Copyright &copy; 2015, Rowan Manning
 [info-npm]: https://www.npmjs.com/package/pa11y-reporter-rainbows
 [info-build]: https://travis-ci.org/rowanmanning/pa11y-reporter-rainbows
 [shield-dependencies]: https://img.shields.io/gemnasium/rowanmanning/pa11y-reporter-rainbows.svg
-[shield-license]: https://img.shields.io/badge/license-GPLv3-blue.svg
+[shield-license]: https://img.shields.io/badge/license-MIT-blue.svg
 [shield-node]: https://img.shields.io/node/v/pa11y-reporter-rainbows.svg?label=node.js%20support
 [shield-npm]: https://img.shields.io/npm/v/pa11y-reporter-rainbows.svg
 [shield-build]: https://img.shields.io/travis/rowanmanning/pa11y-reporter-rainbows/master.svg
