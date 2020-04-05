@@ -4,6 +4,8 @@ pa11y rainbows reporter
 
 A reporter for [pa11y][pa11y] 2.0 which outputs rainbows and unicorns.
 
+**⚠️ NOTE: This project is no longer being maintained. If you're interested in taking over maintenance, please contact me.**
+
 [![NPM version][shield-npm]][info-npm]
 [![Node.js version support][shield-node]][info-node]
 [![Build status][shield-build]][info-build]
